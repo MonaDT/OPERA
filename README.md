@@ -7,6 +7,7 @@ code:
 - Crop_test.ipynb - > Code used to automatically crop the images of the prorgamme leaflets to size.
 - DF_cleaner.ipynb -> Code used to preprocess the data and includes the steps of data normalisation as well as the additional metadata
 - DF_data_exploration.ipynb -> notebook used for data exploration.
+- Turnover.ipynb -> exploration of turnover of top 10 productions, genres and languages across directorial changes in the opera
 
 
 Materials:
