@@ -17,7 +17,7 @@ The repository contains the following **data** and **code**:
 - `Metadata_OBV_gesplitsts_test.csv` -> The dataset before preprocessing.
 
 **Notebooks**
-- `bar_chart_race.ipynb` -> Code for creating bar char races of the composers and original languages.
+- `bar_chart_race.ipynb` -> Code for creating bar char races of the composers and original languages. ***This notebook was not used for the thesis.***
 - `Crop_test.ipynb` - > Code used to automatically crop the images of the programme leaflets to size.
 - `DF_cleaner.ipynb` -> Code used to preprocess the data and includes the steps of data normalisation as well as the additional metadata (this notebook requires META.txt)
 - `DF_prep_GLM.ipynb` -> Code used to preprocess the dataset in order to create the GLMs.
