@@ -2,9 +2,7 @@
 ##  <p align = center> Language choices in the repertoire of the Antwerp Opera  (1893 – 1934) </center>
 
 
-<div id="header" align="center">
-  <img src="https://github.com/MonaDT/OPERA/assets/94553096/0d5563b8-e28b-4c0e-b5b7-dea88f64fe25" width="800"/>
-</div>
+
 
 This repository contains the data and code accompanying the abovementioned master thesis in order to obtain a degree in  *Digital Text Analysis* at the *University of Antwerp* (2022-2023).
 
